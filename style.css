@@ -5,6 +5,8 @@
 html {
   scroll-behavior: smooth;
 }
+button{
+    text-transform: capitalize !important;
 body{
     background-color: var(--bg-color);
     color:white;
